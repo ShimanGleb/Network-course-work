@@ -1,0 +1,4 @@
+f:\Загрузки\Web course\Web course\GameplayClasses\bin\Debug\GameplayClasses.dll
+f:\Загрузки\Web course\Web course\GameplayClasses\bin\Debug\GameplayClasses.pdb
+f:\Загрузки\Web course\Web course\GameplayClasses\obj\Debug\GameplayClasses.dll
+f:\Загрузки\Web course\Web course\GameplayClasses\obj\Debug\GameplayClasses.pdb

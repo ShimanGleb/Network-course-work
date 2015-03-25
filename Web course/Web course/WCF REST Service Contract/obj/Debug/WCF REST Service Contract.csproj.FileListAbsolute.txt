@@ -1,0 +1,7 @@
+F:\Загрузки\Web course\Web course\WCF REST Service Contract\bin\Debug\WCF REST Service Contract.dll
+F:\Загрузки\Web course\Web course\WCF REST Service Contract\bin\Debug\WCF REST Service Contract.pdb
+F:\Загрузки\Web course\Web course\WCF REST Service Contract\obj\Debug\WCF REST Service Contract.dll
+F:\Загрузки\Web course\Web course\WCF REST Service Contract\obj\Debug\WCF REST Service Contract.pdb
+f:\Загрузки\Web course\Web course\WCF REST Service Contract\bin\Debug\GameplayClasses.dll
+f:\Загрузки\Web course\Web course\WCF REST Service Contract\bin\Debug\GameplayClasses.pdb
+f:\Загрузки\Web course\Web course\WCF REST Service Contract\obj\Debug\WCF REST Service Contract.csprojResolveAssemblyReference.cache
