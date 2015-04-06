@@ -1,0 +1,3 @@
+Krieg=Psycho
+Spirit=Soul
+Reimu Hakurei=Shrine maiden
