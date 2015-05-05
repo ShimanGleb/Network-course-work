@@ -1,0 +1,1 @@
+f:\Загрузки\Web-course-work\Web course\WCF REST Service Client\bin\Release\WCF REST Service Client.exe.config
